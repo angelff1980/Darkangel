@@ -1,0 +1,2 @@
+# Darkangel
+Scrip termux
