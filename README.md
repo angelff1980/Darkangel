@@ -6,9 +6,9 @@
 
 ## Instalación
 
-```bash $ git clone https://github.com/SamaelAS/Subdominios```
+```bash $ git clone https://github.com/angelff1980/Darkangel```
 
-```bash $ cd ctfr```
+```bash $ cd Darkangel```
 
 ```bash $ pip3 install -r requirements.txt```
 
